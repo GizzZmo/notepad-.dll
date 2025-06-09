@@ -1,4 +1,4 @@
-# notepad-.dll
+# notepad++.dll
 plug ins for notepad++
 
 Alright, let's dive into Notepad++ plugin development!
